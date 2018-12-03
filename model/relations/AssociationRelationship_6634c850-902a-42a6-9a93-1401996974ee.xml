@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rest 443"
+    id="6634c850-902a-42a6-9a93-1401996974ee">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e4373348-1458-486d-ba96-9c3e8c873e9e.xml#e4373348-1458-486d-ba96-9c3e8c873e9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_af571981-ca13-42b1-9842-64849292b1f6.xml#af571981-ca13-42b1-9842-64849292b1f6"/>
+</archimate:AssociationRelationship>

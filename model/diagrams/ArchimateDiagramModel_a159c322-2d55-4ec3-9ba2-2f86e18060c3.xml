@@ -120,10 +120,10 @@
         source="ccd2eafc-91ac-4b17-b1c6-04e893f77d63"
         target="9a2b658b-f14b-4c49-bd56-044abd05a020">
       <bendpoints
-          startX="318"
-          startY="-60"
-          endX="-132"
-          endY="-99"/>
+          startX="474"
+          startY="-36"
+          endX="24"
+          endY="-75"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_70b4a764-808e-4c84-bcde-6cd3936ba5c7.xml#70b4a764-808e-4c84-bcde-6cd3936ba5c7"/>
